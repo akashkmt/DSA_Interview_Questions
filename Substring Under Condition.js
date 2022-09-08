@@ -1,4 +1,5 @@
 //You are given a strings, you have to find the count of all such substrings which start and ends with the same character.
+
 var count=0;
 for(var i=0;i<s.length;i++)
 {
